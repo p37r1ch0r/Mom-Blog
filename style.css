@@ -2,9 +2,8 @@ html, body {
     height: 100%;
 }
 
-.box {
+.sidebar {
     display: flex;
     align-self: flex-end;
-    width: 60px;
     justify-content: end;
 }
