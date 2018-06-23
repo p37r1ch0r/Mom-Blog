@@ -5,18 +5,19 @@ html body {
 img {
   max-height: 500px;
   max-width: 500px;
-  margin: 5px;
+  margin: 25px;
 }
 
 .blog-name {
   font-size: 100px;
-  color: #1a0077;
+  color: rgb(85, 71, 110);
+  margin-top: 35px;
 }
 
 .logo {
   max-height: 100px;
   max-width: 100px;
-  margin-top: 20px;
+  margin-top: 50px;
   
 }
 
@@ -25,7 +26,7 @@ img {
   width: 130px;
   position: fixed;
   z-index: 1;
-  top: 23x0px;
+  top: 23px 0px;
   right: 10px;
   overflow-x: hidden;
   padding: 8px 0;
@@ -45,19 +46,20 @@ a:hover {
 
 .date {
     color: #7a6c65;
-    margin: 5px;
+    margin: 25px;
 }
 
 .post-head {
     color: #DAA520;
-    margin: 5px;
+    margin: 25px;
 }
 
 p {
     color: #7a6c65;
-    margin: 5px;
+    margin: 25px;
 }
 
 .post {
     border: solid #FFF275 2px;
+    
 }
