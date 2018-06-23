@@ -9,9 +9,9 @@ img {
 }
 
 .blog-name {
-  font-size: 100px;
+  font-size: 80px;
   color: rgb(85, 71, 110);
-  margin-top: 35px;
+  margin-top: 45px;
 }
 
 .logo {
@@ -30,6 +30,8 @@ img {
   right: 10px;
   overflow-x: hidden;
   padding: 8px 0;
+  max-height: 400px;
+ width: 150px;
 }
 
 a:hover {
@@ -62,4 +64,8 @@ p {
 .post {
     border: solid #FFF275 2px;
     
+}
+
+.contact {
+    color: #007BFF;
 }
