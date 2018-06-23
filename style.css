@@ -11,13 +11,13 @@ img {
 .blog-name {
   font-size: 80px;
   color: rgb(85, 71, 110);
-  margin-top: 45px;
+  margin-top: 15px;
+  
 }
 
 .logo {
   max-height: 100px;
   max-width: 100px;
-  margin-top: 50px;
   
 }
 
@@ -31,7 +31,7 @@ img {
   overflow-x: hidden;
   padding: 8px 0;
   max-height: 400px;
- width: 150px;
+  width: 150px;
 }
 
 a:hover {
@@ -43,29 +43,31 @@ a:hover {
   margin-right: 150px;
   margin-top: 70px;
   max-width: 1000px;
-
 }
 
 .date {
-    color: #7a6c65;
-    margin: 25px;
+  color: #7a6c65;
+  margin: 25px;
 }
 
 .post-head {
-    color: #DAA520;
-    margin: 25px;
+  color: #daa520;
+  margin: 25px;
 }
 
 p {
-    color: #7a6c65;
-    margin: 25px;
+  color: #7a6c65;
+  margin: 25px;
 }
 
 .post {
-    border: solid #FFF275 2px;
-    
+  border: solid #fff275 2px;
 }
 
 .contact {
-    color: #007BFF;
+  color: #007bff;
+}
+
+.contact-me {
+  border: solid #fff275 1px;
 }
