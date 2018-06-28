@@ -23,15 +23,13 @@ img {
 
 .sidenav {
   padding-top: 50px;
-  width: 130px;
   position: fixed;
   z-index: 1;
-  top: 23px 0px;
   right: 10px;
   overflow-x: hidden;
   padding: 8px 0;
-  max-height: 400px;
   width: 150px;
+
 }
 
 a:hover {
